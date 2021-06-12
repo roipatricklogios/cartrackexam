@@ -16,3 +16,26 @@
     
     
 *** I did not create the CRUD for the director You can place it manually
+
+
+
+FOR DB: (I'm totally new to heroku and postgresql...Thank You for your understaning)
+
+Table movie
+Columns
+1. m_id (AI)
+2. m_title
+3. m_director (int)
+4. m_showing (date)
+5. m_casts (text)
+6. created_at
+7. updated_at
+
+Table director
+Table Columns
+1. d_id
+2. d_name
+3. created_at
+4. updated_at
+
+
